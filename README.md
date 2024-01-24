@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Vrunal Benke</h1>![github-header-image](https://github.com/Vrunalbenke/Vrunalbenke/assets/88709028/8c39ccc0-26de-46a0-8381-5851b675b4cd)
-
+[![MasterHead]](https://github.com/Vrunalbenke/Vrunalbenke/assets/88709028/8c39ccc0-26de-46a0-8381-5851b675b4cd)
+<h1 align="center">Hi 👋, I'm Vrunal Benke</h1>
 <h3 align="center">A passionate frontend developer from India, developing a visually appealing and dynamic frontend in React Native and React</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrunalbenke&label=Profile%20views&color=0e75b6&style=flat" alt="vrunalbenke" /> </p>
